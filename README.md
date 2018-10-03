@@ -1,1 +1,1 @@
-Link to new blog: mrmintyfresh99.pythonanywhere.com
+Link to blog: mrmintyfresh99.pythonanywhere.com
